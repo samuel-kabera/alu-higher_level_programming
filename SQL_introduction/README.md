@@ -1,2 +1,1 @@
-SQL - Introduction
-Author: UMUTONI Kevine
+SQL - Introduction Exercises
